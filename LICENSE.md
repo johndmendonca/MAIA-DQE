@@ -1,1 +1,1 @@
-The corpus and accompanying benchmarks are publicly available under the Creative Commons public license Attribution NoDerivatives 4.0 International (CC BY-ND 4.0) and can be freely used for research purposes only.
+license:cc-by-4.0
