@@ -1,0 +1,8 @@
+empathy
+happiness
+neutral
+disappointment
+confusion
+frustration
+anger
+anxiety
